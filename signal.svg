@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="82" viewBox="0 0 1200 82" role="img">
+<defs>
+ <linearGradient id="space" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050914"/><stop offset=".62" stop-color="#0B1630"/><stop offset="1" stop-color="#100E27"/></linearGradient>
+ <linearGradient id="gridfade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2D7292" stop-opacity=".4"/><stop offset="1" stop-color="#2D7292" stop-opacity="0"/></linearGradient>
+ <linearGradient id="cyanviolet" x1="0" x2="1"><stop offset="0" stop-color="#63F2F4"/><stop offset="1" stop-color="#A18BFF"/></linearGradient>
+ <radialGradient id="nebula"><stop offset="0" stop-color="#5D63D9" stop-opacity=".28"/><stop offset="1" stop-color="#5D63D9" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halo"><stop offset="0" stop-color="#52F5ED" stop-opacity=".26"/><stop offset="1" stop-color="#52F5ED" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="clip"><rect width="1200" height="470" rx="20"/></clipPath>
+ <style><![CDATA[
+ .blink{animation:blink 2.4s steps(1,end) infinite}.pulse{animation:pulse 3.5s ease-in-out infinite}.dash{animation:dash 23s linear infinite}.slow{animation:slow 13s linear infinite;transform-box:fill-box;transform-origin:center}.twinkle{animation:pulse 4s ease-in-out infinite}
+ @keyframes blink{0%,64%{opacity:1}65%,100%{opacity:.18}}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@keyframes dash{to{stroke-dashoffset:-800}}@keyframes slow{to{transform:rotate(360deg)}}
+ @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+ ]]></style>
+ </defs>
+<rect x="0" y="0" width="1200" height="82" rx="12" fill="url(#space)" stroke="#20314E" stroke-width="1" />
+<circle cx="594" cy="16" r="1" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.27" class="twinkle"/>
+<circle cx="910" cy="30" r="1" fill="#63F2F4" stroke="none" stroke-width="1" opacity="0.45"/>
+<circle cx="1180" cy="13" r="1.2" fill="#F4F9FF" stroke="none" stroke-width="1" opacity="0.18"/>
+<circle cx="617" cy="20" r="0.55" fill="#63F2F4" stroke="none" stroke-width="1" opacity="0.18"/>
+<circle cx="124" cy="65" r="1.2" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.27"/>
+<circle cx="904" cy="58" r="0.7" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.63"/>
+<circle cx="259" cy="55" r="1.2" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.45"/>
+<circle cx="1050" cy="57" r="0.7" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.18"/>
+<circle cx="888" cy="35" r="1.2" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.45"/>
+<circle cx="1132" cy="43" r="0.55" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.27"/>
+<circle cx="2" cy="47" r="1.2" fill="#63F2F4" stroke="none" stroke-width="1" opacity="0.45"/>
+<circle cx="780" cy="41" r="1" fill="#F4F9FF" stroke="none" stroke-width="1" opacity="0.63" class="twinkle"/>
+<circle cx="1035" cy="23" r="1.2" fill="#F4F9FF" stroke="none" stroke-width="1" opacity="0.18"/>
+<circle cx="877" cy="43" r="1.2" fill="#F4F9FF" stroke="none" stroke-width="1" opacity="0.63"/>
+<circle cx="463" cy="42" r="0.7" fill="#F4F9FF" stroke="none" stroke-width="1" opacity="0.45"/>
+<circle cx="153" cy="28" r="0.7" fill="#F4F9FF" stroke="none" stroke-width="1" opacity="0.63"/>
+<circle cx="182" cy="62" r="1" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.63"/>
+<circle cx="541" cy="45" r="0.7" fill="#63F2F4" stroke="none" stroke-width="1" opacity="0.18"/>
+<circle cx="272" cy="39" r="0.7" fill="#A18BFF" stroke="none" stroke-width="1" opacity="0.18"/>
+<circle cx="96" cy="17" r="0.55" fill="#F4F9FF" stroke="none" stroke-width="1" opacity="0.45"/>
+<line x1="26" y1="41" x2="86" y2="41" stroke="#63F2F4" stroke-width="2"/>
+<circle cx="90" cy="41" r="3" fill="#C8FF86" stroke="none" stroke-width="1" class="pulse"/>
+<text x="109" y="46" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#63F2F4" letter-spacing="2" >TRANSMISSION RECEIVED</text>
+<line x1="460" y1="41" x2="1020" y2="41" stroke="#31577B" stroke-width="1" opacity="0.65" stroke-dasharray="5 10"/>
+<text x="1034" y="46" font-family="Consolas, monospace" font-size="12" font-weight="600" fill="#8298B5" letter-spacing="1" >SC / 2100</text>
+</svg>

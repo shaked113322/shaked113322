@@ -1,536 +1,114 @@
-<!-- ========================= HEADER ========================= -->
+<!--
+  SHAKED COHEN / PROFILE 2100
+  A GitHub-native, no-JavaScript profile. Designed for light & dark GitHub themes.
+  All artwork is self-hosted in ./assets. The UI is fictional; project facts are real.
+-->
 
 <div align="center">
+  <img src="./assets/hero.svg" alt="Shaked Cohen — developer, builder and investor. A futuristic orbital command center, profile transmission 2100." width="100%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:0969DA,100:58A6FF&text=SHAKED%20COHEN&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Investor&descAlignY=55&descSize=19" />
+  <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+things+for+the+web.;Turning+ideas+into+real+products.;AI+%2B+Software+%2B+Markets.;Building+products+that+solve+real+problems.;Build.+Learn.+Improve.+Ship." />
+  <a href="https://stockmarket-news.xyz/"><img src="https://img.shields.io/badge/EXPLORE_THE_PLATFORM-63F2F4?style=for-the-badge&labelColor=0B1323&color=63F2F4" alt="Explore the platform" /></a>
+  <a href="mailto:shakedcohenwork@gmail.com"><img src="https://img.shields.io/badge/OPEN_A_CHANNEL-A18BFF?style=for-the-badge&labelColor=0B1323&color=A18BFF" alt="Email Shaked" /></a>
+  <a href="https://www.instagram.com/shakedco__/"><img src="https://img.shields.io/badge/SOCIAL_SIGNAL-C8FF86?style=for-the-badge&labelColor=0B1323&color=C8FF86" alt="Instagram" /></a>
 
-<br>
-
-<a href="https://stockmarket-news.xyz/">
-<img src="https://img.shields.io/badge/WEBSITE-StockMarket--News-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:shakedcohenwork@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/shakedco__/">
-<img src="https://img.shields.io/badge/INSTAGRAM-@shakedco__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/shaked113322">
-<img src="https://img.shields.io/badge/GITHUB-@shaked113322-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shaked113322&label=PROFILE%20VIEWS&style=flat-square&color=0969DA" />
-
+  <br /><br />
+  <sub><code>SC // IDENTITY CONFIRMED</code> &nbsp; · &nbsp; <code>ORBIT / EARTH</code> &nbsp; · &nbsp; <code>BUILD MODE: ALWAYS ON</code></sub>
 </div>
 
-<br>
+<br />
 
----
+<img src="./assets/signal.svg" width="100%" alt="Transmission received: SC 2100" />
 
-<!-- ========================= ABOUT ========================= -->
+### `01 / THE HUMAN BEHIND THE MACHINE`
 
-## 👨‍💻 About Me
+I’m **Shaked** — a developer, builder and investor operating where **software, AI, automation and financial markets** meet.
 
-I'm **Shaked**, a developer and builder focused on turning ideas into real products.
+I like turning complicated problems into products that feel simple. I care about the entire journey: understanding the problem, designing the experience, writing the code, testing the details and actually shipping it.
 
-I enjoy working at the intersection of:
+> **The mission:** Build things people want to use. Then make them better.
 
-🚀 **SaaS & Micro SaaS**
-🤖 **AI & Automation**
-🌐 **Web Development**
-📈 **FinTech & Investing**
+```text
+┌─ CURRENT OPERATING STATE ───────────────────────────────────┐
+│                                                            │
+│  PRIMARY MISSION   → Building StockMarket-News              │
+│  CORE INTERESTS    → FinTech / SaaS / AI / Automation        │
+│  OPERATING LOOP    → Idea → Research → Build → Test → Ship  │
+│  GUIDING RULE      → Useful beats impressive.               │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-I like building things that actually solve problems — not projects that just sit inside a repository.
+<br />
 
-Right now, my main focus is building **[StockMarket-News](https://stockmarket-news.xyz/)**.
+### `02 / FLAGSHIP MISSION`
 
-<div align="center">
+<a href="https://stockmarket-news.xyz/"><img src="./assets/flagship.svg" width="100%" alt="StockMarket-News flagship project, with a futuristic financial research chart" /></a>
 
-### `Idea → Build → Test → Improve → Ship`
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= MAIN PROJECT ========================= -->
-
-## 🚀 What I'm Building
-
-<div align="center">
-
-# 📈 StockMarket-News
-
-### AI-Powered Fundamental Stock Research
-
-<a href="https://stockmarket-news.xyz/">
-<img src="https://img.shields.io/badge/OPEN%20LIVE%20PLATFORM-stockmarket--news.xyz-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fstockmarket-news.xyz&style=flat-square&label=PLATFORM%20STATUS&labelColor=161B22" />
-
-</div>
-
-<br>
-
-**StockMarket-News** is a platform I'm building to make fundamental stock research faster, clearer and more useful.
-
-It brings together financial data, research tools, market information and artificial intelligence into one platform.
-
-### ⚡ Platform Features
+**[StockMarket-News](https://stockmarket-news.xyz/)** is a financial-research platform I'm building to help investors move from scattered information to a clearer view of the business. It brings company fundamentals, valuation, comparisons, screening, market information and AI-assisted research into one workflow.
 
 <table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Research
-
-AI-powered company research designed to help investors understand businesses faster.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Fundamental Analysis
-
-Research companies using financial statements, business fundamentals and key metrics.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💰 Valuation
-
-DCF models, valuation scenarios and tools for understanding what a business may be worth.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚖️ Peer Comparison
-
-Compare companies with competitors and similar businesses.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔎 Stock Screener
-
-Search and discover companies using fundamental filters.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📰 Market News
-
-Follow important market developments and company news.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Research Workspace
-
-A dedicated environment for organizing investment research.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📬 Automated Briefs
-
-Automated market and research summaries.
-
-</td>
-
-</tr>
-
+  <tr><td width="50%" valign="top"><b>01 — Understand the business</b><br/><sub>Financial statements, business fundamentals and key metrics.</sub></td><td width="50%" valign="top"><b>02 — Explore what it may be worth</b><br/><sub>DCF models and valuation scenarios.</sub></td></tr>
+  <tr><td width="50%" valign="top"><b>03 — Discover and compare</b><br/><sub>Fundamental screening and peer comparison.</sub></td><td width="50%" valign="top"><b>04 — Follow the bigger picture</b><br/><sub>Market news, research workflows and automated briefs.</sub></td></tr>
 </table>
 
+**[↗ Enter the live platform](https://stockmarket-news.xyz/)** &nbsp; `FINTECH` · `SAAS` · `RESEARCH`
+
+<br />
+
+### `03 / THE PROJECT ARCHIVE`
+
+Not every experiment becomes a product. Every experiment teaches me how to build the next one.
+
+| MISSION | DESIGNATION | SIGNAL |
+|:--|:--|:--|
+| **[StockIQ](https://github.com/shaked113322/stockiq)** | Stock-market development & experimentation | `FINANCE` `JAVASCRIPT` |
+| **[Fitness Tracker](https://github.com/shaked113322/fitness-tracker)** | Web-based fitness tracking | `WEB` `TYPESCRIPT` |
+| **[Trading Bot](https://github.com/shaked113322/TradingBot)** | Automated-trading experiments and tools | `PYTHON` `TRADING` |
+
+[↗ Explore all repositories](https://github.com/shaked113322?tab=repositories)
+
+<br />
+
+### `04 / THE TECHNOLOGY MATRIX`
+
 <div align="center">
-
-### `Software × AI × Investing`
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nextjs,nodejs,postgres,prisma,docker,linux,git,github,vscode&perline=7&theme=dark" alt="JavaScript, TypeScript, Python, HTML, CSS, Next.js, Node.js, PostgreSQL, Prisma, Docker, Linux, Git, GitHub and VS Code" />
 </div>
 
-<br>
+<br />
 
----
+| LAYER | TOOLS |
+|:--|:--|
+| `LANGUAGE INTERFACE` | JavaScript · TypeScript · Python · HTML · CSS |
+| `APPLICATION CORE` | Next.js · Node.js · PostgreSQL · Prisma |
+| `DEPLOYMENT & TOOLS` | Docker · Linux · Git · GitHub · VS Code |
+| `AREAS OF INTEREST` | SaaS · AI · FinTech · Automation · Web Apps |
 
-<!-- ========================= TECH STACK ========================= -->
+<br />
 
-## 🛠️ Tech Stack
+### `05 / LIVE TELEMETRY`
+
+<details>
+  <summary><b>↳ OPEN CONTRIBUTION SIGNAL</b> — GitHub activity data</summary>
+  <br />
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaked113322&theme=github_dark" width="98%" alt="GitHub contribution summary" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaked113322&bg_color=050914&color=63F2F4&line=A18BFF&point=C8FF86&area=true&hide_border=true" width="98%" alt="GitHub contribution graph" />
+  </div>
+</details>
+
+<br />
+
+### `06 / OPEN A CHANNEL`
+
+If you're building something ambitious, want to collaborate, or just want to talk software and markets — reach out.
+
+**[Email](mailto:shakedcohenwork@gmail.com)** &nbsp; / &nbsp; **[Instagram](https://www.instagram.com/shakedco__/)** &nbsp; / &nbsp; **[Website](https://stockmarket-news.xyz/)** &nbsp; / &nbsp; **[GitHub](https://github.com/shaked113322)**
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,nextjs,nodejs,html,css,postgres,prisma,docker,linux,git,github,vscode&perline=7" />
-
-<br><br>
-
-### Languages
-
-`JavaScript` · `TypeScript` · `Python` · `HTML` · `CSS`
-
-### Development
-
-`Next.js` · `Node.js` · `PostgreSQL` · `Prisma`
-
-### Tools & Infrastructure
-
-`Docker` · `Linux` · `Git` · `GitHub` · `VS Code`
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= CURRENT FOCUS ========================= -->
-
-## ⚡ Current Focus
-
-<table>
-
-<tr>
-
-<td align="center" width="20%">
-
-### 📈
-
-**FinTech**
-
-Building better tools for investors.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🤖
-
-**AI**
-
-Integrating AI into useful products.
-
-</td>
-
-<td align="center" width="20%">
-
-### ⚙️
-
-**Automation**
-
-Removing repetitive work.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🌐
-
-**Web**
-
-Building full-stack applications.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🚀
-
-**SaaS**
-
-Turning ideas into products.
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
-
-<!-- ========================= FEATURED PROJECTS ========================= -->
-
-## 🔥 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📈 StockMarket-News
-
-**AI-powered fundamental stock research platform**
-
-Research companies, analyze financial data, estimate valuations and follow the market.
-
-<br>
-
-`FinTech` `AI` `SaaS`
-
-<br><br>
-
-<a href="https://stockmarket-news.xyz/">
-<img src="https://img.shields.io/badge/LIVE-VISIT%20PLATFORM-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 StockIQ
-
-Stock-market related development and experimentation.
-
-<br>
-
-`JavaScript` `Finance`
-
-<br><br>
-
-<a href="https://github.com/shaked113322/stockiq">
-<img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💪 Fitness Tracker
-
-A web-based fitness tracking project.
-
-<br>
-
-`TypeScript` `Web`
-
-<br><br>
-
-<a href="https://github.com/shaked113322/fitness-tracker">
-<img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Trading Bot
-
-Automated trading experiments and tools.
-
-<br>
-
-`Python` `Trading`
-
-<br><br>
-
-<a href="https://github.com/shaked113322/TradingBot">
-<img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/shaked113322?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-→-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= GITHUB OVERVIEW ========================= -->
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaked113322&theme=github_dark" />
-
-<br><br>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaked113322&theme=github_dark" />
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaked113322&theme=github_dark" />
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= CONTRIBUTIONS ========================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaked113322&bg_color=0d1117&color=58a6ff&line=0969da&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= BUILD PROCESS ========================= -->
-
-## 🧠 How I Like to Build
-
-<div align="center">
-
-### 💡 Idea
-
-↓
-
-### 🔍 Research
-
-↓
-
-### 🛠️ Build
-
-↓
-
-### 🧪 Test
-
-↓
-
-### 🔧 Improve
-
-↓
-
-### 🚀 Ship
-
-↓
-
-### ♻️ Repeat
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= INTERESTS ========================= -->
-
-## 💭 Things I'm Interested In
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SaaS-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/FinTech-111827?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Micro%20SaaS-111827?style=for-the-badge&logo=rocket&logoColor=white" />
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= COLLABORATION ========================= -->
-
-## 🤝 Let's Build Something
-
-I'm always interested in interesting projects involving:
-
-<div align="center">
-
-### `SaaS` · `AI` · `FinTech` · `Automation` · `Web Apps`
-
-</div>
-
-If you're building something interesting, want to collaborate, or just want to talk tech — feel free to reach out.
-
-<br>
-
-<div align="center">
-
-<a href="mailto:shakedcohenwork@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-shakedcohenwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/shakedco__/">
-<img src="https://img.shields.io/badge/INSTAGRAM-@shakedco__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://stockmarket-news.xyz/">
-<img src="https://img.shields.io/badge/WEBSITE-stockmarket--news.xyz-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================= FOOTER ========================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1300&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=45&lines=%3E+Build+something+people+actually+want.;%3E+Never+stop+learning.;%3E+Keep+shipping." />
-
-<br>
-
-### `BUILD → LEARN → IMPROVE → SHIP 🚀`
-
-<br>
-
-<a href="https://github.com/shaked113322">
-<img src="https://img.shields.io/github/followers/shaked113322?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:0969DA,100:0D1117&section=footer" />
-
+  <br />
+  <img src="./assets/footer.svg" alt="End of transmission. The future is a build in progress." width="100%" />
+  <sub><code>DESIGNED FOR THE FUTURE. BUILT IN THE PRESENT.</code></sub>
 </div>
