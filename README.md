@@ -1,114 +1,229 @@
+
 <!--
-  SHAKED COHEN / PROFILE 2100
-  A GitHub-native, no-JavaScript profile. Designed for light & dark GitHub themes.
-  All artwork is self-hosted in ./assets. The UI is fictional; project facts are real.
+  SHAKED COHEN
+  Independent Builder
+  One product. One vision.
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="Shaked Cohen — developer, builder and investor. A futuristic orbital command center, profile transmission 2100." width="100%" />
 
-  <br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=270&color=0:020617,35:081C30,75:073B50,100:06B6D4&text=SHAKED%20COHEN.&fontSize=68&fontColor=FFFFFF&fontAlignY=44&desc=BUILDING%20WHAT%20I%20WISH%20EXISTED.&descSize=20&descAlignY=66&animation=fadeIn" />
 
-  <a href="https://stockmarket-news.xyz/"><img src="https://img.shields.io/badge/EXPLORE_THE_PLATFORM-63F2F4?style=for-the-badge&labelColor=0B1323&color=63F2F4" alt="Explore the platform" /></a>
-  <a href="mailto:shakedcohenwork@gmail.com"><img src="https://img.shields.io/badge/OPEN_A_CHANNEL-A18BFF?style=for-the-badge&labelColor=0B1323&color=A18BFF" alt="Email Shaked" /></a>
-  <a href="https://www.instagram.com/shakedco__/"><img src="https://img.shields.io/badge/SOCIAL_SIGNAL-C8FF86?style=for-the-badge&labelColor=0B1323&color=C8FF86" alt="Instagram" /></a>
+<br/><br/>
 
-  <br /><br />
-  <sub><code>SC // IDENTITY CONFIRMED</code> &nbsp; · &nbsp; <code>ORBIT / EARTH</code> &nbsp; · &nbsp; <code>BUILD MODE: ALWAYS ON</code></sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=45&lines=Independent+builder.+Developer.+Investor.;Turning+complexity+into+clarity.;Currently+building+StockLock.org." />
+
+<br/><br/>
+
+<a href="https://stocklock.org"><b>STOCKLOCK ↗</b></a>
+&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
+<a href="mailto:shakedcohenwork@gmail.com"><b>CONTACT ↗</b></a>
+&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/shakedco__/"><b>INSTAGRAM ↗</b></a>
+
+<br/><br/>
+
 </div>
 
-<br />
+---
 
-<img src="./assets/signal.svg" width="100%" alt="Transmission received: SC 2100" />
-
-### `01 / THE HUMAN BEHIND THE MACHINE`
-
-I’m **Shaked** — a developer, builder and investor operating where **software, AI, automation and financial markets** meet.
-
-I like turning complicated problems into products that feel simple. I care about the entire journey: understanding the problem, designing the experience, writing the code, testing the details and actually shipping it.
-
-> **The mission:** Build things people want to use. Then make them better.
-
-```text
-┌─ CURRENT OPERATING STATE ───────────────────────────────────┐
-│                                                            │
-│  PRIMARY MISSION   → Building StockMarket-News              │
-│  CORE INTERESTS    → FinTech / SaaS / AI / Automation        │
-│  OPERATING LOOP    → Idea → Research → Build → Test → Ship  │
-│  GUIDING RULE      → Useful beats impressive.               │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-<br />
-
-### `02 / FLAGSHIP MISSION`
-
-<a href="https://stockmarket-news.xyz/"><img src="./assets/flagship.svg" width="100%" alt="StockMarket-News flagship project, with a futuristic financial research chart" /></a>
-
-**[StockMarket-News](https://stockmarket-news.xyz/)** is a financial-research platform I'm building to help investors move from scattered information to a clearer view of the business. It brings company fundamentals, valuation, comparisons, screening, market information and AI-assisted research into one workflow.
+<br/>
 
 <table>
-  <tr><td width="50%" valign="top"><b>01 — Understand the business</b><br/><sub>Financial statements, business fundamentals and key metrics.</sub></td><td width="50%" valign="top"><b>02 — Explore what it may be worth</b><br/><sub>DCF models and valuation scenarios.</sub></td></tr>
-  <tr><td width="50%" valign="top"><b>03 — Discover and compare</b><br/><sub>Fundamental screening and peer comparison.</sub></td><td width="50%" valign="top"><b>04 — Follow the bigger picture</b><br/><sub>Market news, research workflows and automated briefs.</sub></td></tr>
+<tr>
+<td width="38%" valign="top">
+
+<sub>THE PERSON</sub>
+
+# Not just writing code.
+
+</td>
+<td width="62%" valign="top">
+
+I'm **Shaked**.
+
+A developer, independent builder and investor who enjoys turning ideas into products that solve real problems.
+
+I'm particularly interested in the intersection of software, financial markets and product design.
+
+I care about the little things — how something looks, how it feels, how it works and whether it genuinely makes someone's life easier.
+
+**I believe technology should make complicated things feel simple.**
+
+</td>
+</tr>
 </table>
 
-**[↗ Enter the live platform](https://stockmarket-news.xyz/)** &nbsp; `FINTECH` · `SAAS` · `RESEARCH`
+<br/>
 
-<br />
+---
 
-### `03 / THE PROJECT ARCHIVE`
-
-Not every experiment becomes a product. Every experiment teaches me how to build the next one.
-
-| MISSION | DESIGNATION | SIGNAL |
-|:--|:--|:--|
-| **[StockIQ](https://github.com/shaked113322/stockiq)** | Stock-market development & experimentation | `FINANCE` `JAVASCRIPT` |
-| **[Fitness Tracker](https://github.com/shaked113322/fitness-tracker)** | Web-based fitness tracking | `WEB` `TYPESCRIPT` |
-| **[Trading Bot](https://github.com/shaked113322/TradingBot)** | Automated-trading experiments and tools | `PYTHON` `TRADING` |
-
-[↗ Explore all repositories](https://github.com/shaked113322?tab=repositories)
-
-<br />
-
-### `04 / THE TECHNOLOGY MATRIX`
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nextjs,nodejs,postgres,prisma,docker,linux,git,github,vscode&perline=7&theme=dark" alt="JavaScript, TypeScript, Python, HTML, CSS, Next.js, Node.js, PostgreSQL, Prisma, Docker, Linux, Git, GitHub and VS Code" />
+
+<sub>MY MAIN FOCUS</sub>
+
+# ONE PRODUCT.
+# ONE VISION.
+
+<br/>
+
+<a href="https://stocklock.org">
+<img width="78%" src="https://stocklock.org/og-image.png" alt="StockLock — Fundamental Stock Research Platform"/>
+</a>
+
+<br/>
+
+### UNDERSTAND BEFORE YOU INVEST.
+
+A financial research platform built for people who want to understand the business behind the stock.
+
+<br/>
+
+<a href="https://stocklock.org"><b>EXPLORE STOCKLOCK.ORG ↗</b></a>
+
+<br/><br/>
+
 </div>
 
-<br />
+---
 
-| LAYER | TOOLS |
-|:--|:--|
-| `LANGUAGE INTERFACE` | JavaScript · TypeScript · Python · HTML · CSS |
-| `APPLICATION CORE` | Next.js · Node.js · PostgreSQL · Prisma |
-| `DEPLOYMENT & TOOLS` | Docker · Linux · Git · GitHub · VS Code |
-| `AREAS OF INTEREST` | SaaS · AI · FinTech · Automation · Web Apps |
+<br/>
 
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `05 / LIVE TELEMETRY`
+### THE PROBLEM.
 
-<details>
-  <summary><b>↳ OPEN CONTRIBUTION SIGNAL</b> — GitHub activity data</summary>
-  <br />
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaked113322&theme=github_dark" width="98%" alt="GitHub contribution summary" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaked113322&bg_color=050914&color=63F2F4&line=A18BFF&point=C8FF86&area=true&hide_border=true" width="98%" alt="GitHub contribution graph" />
-  </div>
-</details>
+Financial research is fragmented.
 
-<br />
+Financial statements in one place. Valuations somewhere else. News in another tab. Endless information, but not always a clear picture.
 
-### `06 / OPEN A CHANNEL`
+</td>
+<td width="50%" valign="top">
 
-If you're building something ambitious, want to collaborate, or just want to talk software and markets — reach out.
+### THE IDEA.
 
-**[Email](mailto:shakedcohenwork@gmail.com)** &nbsp; / &nbsp; **[Instagram](https://www.instagram.com/shakedco__/)** &nbsp; / &nbsp; **[Website](https://stockmarket-news.xyz/)** &nbsp; / &nbsp; **[GitHub](https://github.com/shaked113322)**
+What if the entire research process could feel connected?
+
+One place to explore companies, understand their fundamentals, evaluate valuations and compare opportunities.
+
+**That's why I'm building StockLock.**
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <br />
-  <img src="./assets/footer.svg" alt="End of transmission. The future is a build in progress." width="100%" />
-  <sub><code>DESIGNED FOR THE FUTURE. BUILT IN THE PRESENT.</code></sub>
+
+### FROM INFORMATION TO UNDERSTANDING.
+
+<br/>
+
+`RESEARCH` &nbsp; ─── &nbsp; `ANALYZE` &nbsp; ─── &nbsp; `COMPARE` &nbsp; ─── &nbsp; `UNDERSTAND`
+
+<br/><br/>
+
+<a href="https://stocklock.org">
+<img src="https://img.shields.io/badge/EXPLORE_THE_PLATFORM-22D3EE?style=for-the-badge&labelColor=22D3EE&logo=googlechrome&logoColor=020617" />
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>WHAT I WORK WITH</sub>
+
+## SOFTWARE. FINANCE. PRODUCT.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,nextjs,nodejs,postgres,docker,git&theme=dark" />
+
+<br/><br/>
+
+`FULL-STACK DEVELOPMENT`
+&nbsp; · &nbsp;
+`SAAS`
+&nbsp; · &nbsp;
+`FINTECH`
+
+<br/>
+
+`AI & AUTOMATION`
+&nbsp; · &nbsp;
+`PRODUCT THINKING`
+
+<br/><br/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>THE WORK BEHIND THE SCENES</sub>
+
+## CONSISTENCY OVER HYPE.
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaked113322&bg_color=0D1117&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=Building%20in%20Public" />
+
+<br/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<br/>
+
+# GOOD IDEAS ARE EVERYWHERE.
+
+### Execution makes the difference.
+
+<br/>
+
+I build, learn, question, experiment and improve.
+
+Not because every idea will work.
+
+Because the only way to find out is to make it real.
+
+<br/><br/>
+
+<a href="https://stocklock.org">
+<img src="https://img.shields.io/badge/STOCKLOCK.ORG-22D3EE?style=for-the-badge&labelColor=22D3EE&logoColor=020617" />
+</a>
+&nbsp;
+<a href="mailto:shakedcohenwork@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
+
+<br/><br/><br/>
+
+**SHAKED COHEN**
+
+<sub>Independent builder · Creator of StockLock</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:020617,50:06B6D4,100:020617" />
+
 </div>
